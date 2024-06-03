@@ -31,7 +31,7 @@ git clone https://github.com/PilotAxis/Employee-Records-Management-System.git
 - Install MySQL python connector using pip:
 
 ```python
-pip install mysql-connector-python`
+pip install mysql-connector-python
 ```
 
 ## Usage

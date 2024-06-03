@@ -20,7 +20,9 @@ This project is an Employee Records Management System built using Python and MyS
 
 - Clone the repository:
 
-```markdown git clone https://github.com/PilotAxis/Employee-Records-Management-System.git```
+```python
+git clone https://github.com/PilotAxis/Employee-Records-Management-System.git
+```
 
 - Install Python 3.7 or above version:
 
@@ -28,7 +30,9 @@ This project is an Employee Records Management System built using Python and MyS
 
 - Install MySQL python connector using pip:
 
-`pip install mysql-connector-python`
+```python
+pip install mysql-connector-python`
+```
 
 ## Usage
 

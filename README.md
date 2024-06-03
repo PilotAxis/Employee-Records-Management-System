@@ -40,8 +40,8 @@ pip install mysql-connector-python
 
 ## Usage
 
-- Open the `main.py` file, and change the corresponding username and password according to your MySQL configuration.
 - Open an IDLE such as (Python IDLE, VSCode Editor or PyCharm) alongside open terminal.
+- Open the `main.py` file in code editor, and change the corresponding username and password according to your MySQL configuration.
 - Run the `main.py` file using Python IDLE or terminal.
 - Follow the on-screen instructions to interact with the system.
 - Enjoy the system!

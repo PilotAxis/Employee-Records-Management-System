@@ -50,7 +50,7 @@ pip install mysql-connector-python
 
 Contributions are welcome!</br>
 You can raise issues related to any features or bugs.
-Succesfull Contributions will be rewarded.
+Successfull Contributions will be rewarded.
 
 ## License
 

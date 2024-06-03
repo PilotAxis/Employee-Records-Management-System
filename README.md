@@ -34,6 +34,10 @@ git clone https://github.com/PilotAxis/Employee-Records-Management-System.git
 pip install mysql-connector-python
 ```
 
+- Install MySQL Server from MySQL Community (GPL) Website:
+
+![MySQL Installation](<images/MySQL Install.png>)
+
 ## Usage
 
 - Open the `main.py` file, and change the corresponding username and password according to your MySQL configuration.

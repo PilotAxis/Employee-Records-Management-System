@@ -20,7 +20,7 @@ This project is an Employee Records Management System built using Python and MyS
 
 - Clone the repository:
 
-```python
+```bash
 git clone https://github.com/PilotAxis/Employee-Records-Management-System.git
 ```
 
@@ -30,7 +30,7 @@ git clone https://github.com/PilotAxis/Employee-Records-Management-System.git
 
 - Install MySQL python connector using pip:
 
-```python
+```bash
 pip install mysql-connector-python
 ```
 
